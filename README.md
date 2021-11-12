@@ -3,8 +3,9 @@
 Currently, I'm focused on leading a development team & creating valuable projects at [Masslight](https://www.masslight.com/).
 
 ### Side Projects:
-- 🤓 [My Portfolio](https://www.mtimpson.com/home/)
-- 🥷 [RedLure](https://github.com/redlure/)
+- 🤓  [My Portfolio](https://www.mtimpson.com/home/)
+- 🥷  [RedLure](https://github.com/redlure/)
+- ✈️  [SkyBorn](https://appadvice.com/app/skyborn/1121435715) 
 
 ### Blog:
-- 📝 [Debugging My Thoughts](https://www.mtimpson.com/blog/)
+- 📝  [Debugging My Thoughts](https://www.mtimpson.com/blog/)
