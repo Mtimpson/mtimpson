@@ -5,7 +5,7 @@ Currently, I am focused on leading a development team & creating valuable projec
 ### Side Projects:
 - 🤓  [My Portfolio](https://www.mtimpson.com/home/)
 - 🥷  [RedLure](https://github.com/redlure/)
-- 🎨 [Barbara Donnellan] (https://www.barbaradonnellan.com/)
+- 🎨 [Barbara Donnellan](https://www.barbaradonnellan.com/)
 - ✈️  [SkyBorn](https://appadvice.com/app/skyborn/1121435715) 
 
 ### Blog:
