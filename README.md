@@ -4,7 +4,7 @@ I'm a Software Engineer based in Alexandria, VA. Currently, I am focused on lead
 
 ### Let's Connect:
 - **LinkedIn**: [michael-timpson](https://www.linkedin.com/in/michael-timpson/)
-- **Twitter**: [MichaelTimpson](https://twitter.com/MichaelTimpson)
+- **Twitter**: [@michaeltimpson](https://twitter.com/MichaelTimpson)
 - **Email**: [Send me an email](mailto:mdtimpson@gmail.com)
 
 Happy coding!
